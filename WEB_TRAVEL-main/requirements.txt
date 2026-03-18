@@ -1,0 +1,12 @@
+fastapi
+langchain
+openai
+pinecone-client	
+python-dotenv
+streamlit
+httpx	
+requests
+pandas 
+numpy
+scikit-learn
+uvicorn
