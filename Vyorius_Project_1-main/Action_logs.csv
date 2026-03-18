@@ -1,0 +1,33 @@
+Timestamp,App,Action Type,Key/Button,Cursor X,Cursor Y,Notes,Intent
+2025-04-06 9:00:01,Excel,Key,Ctrl+O,200,300,Open dialog,open_file
+2025-04-06 9:00:07,Excel,MouseClick,Left,215,320,File selected,open_file
+2025-04-06 9:01:15,Excel,Key,Ctrl+C,420,215,Copy cell,copy_data
+2025-04-06 9:01:20,Excel,Key,Ctrl+V ,440,220,Paste cell,copy_data
+2025-04-06 9:02:40,Excel,Key,Alt+N,310,310,Open Insert menu,insert_chart
+2025-04-06 9:02:44,Excel,MouseClick,Left,320,325,"Click ""Chart""",insert_chart
+2025-04-06 9:04:00,Excel,Key,Ctrl+S ,480,240,Save file,save_file
+2025-04-06 9:04:20,Excel,Key,Alt+F4,500,250,Close app ,save_file
+2025-04-06 9:00:01,Excel,Key,Ctrl+O,200,300,Open dialog,open_file
+2025-04-06 9:00:07,Excel,MouseClick,Left,215,320,File selected,open_file
+2025-04-06 9:01:15,Excel,Key,Ctrl+C,420,215,Copy cell,copy_data
+2025-04-06 9:01:20,Excel,Key,Ctrl+V ,440,220,Paste cell,copy_data
+2025-04-06 9:02:40,Excel,Key,Alt+N,310,310,Open Insert menu,insert_chart
+2025-04-06 9:02:44,Excel,MouseClick,Left,320,325,"Click ""Chart""",insert_chart
+2025-04-06 9:04:00,Excel,Key,Ctrl+S ,480,240,Save file,save_file
+2025-04-06 9:04:20,Excel,Key,Alt+F4,500,250,Close app ,save_file
+2025-04-06 9:00:01,Excel,Key,Ctrl+O,200,300,Open dialog,open_file
+2025-04-06 9:00:07,Excel,MouseClick,Left,215,320,File selected,open_file
+2025-04-06 9:01:15,Excel,Key,Ctrl+C,420,215,Copy cell,copy_data
+2025-04-06 9:01:20,Excel,Key,Ctrl+V ,440,220,Paste cell,copy_data
+2025-04-06 9:02:40,Excel,Key,Alt+N,310,310,Open Insert menu,insert_chart
+2025-04-06 9:02:44,Excel,MouseClick,Left,320,325,"Click ""Chart""",insert_chart
+2025-04-06 9:04:00,Excel,Key,Ctrl+S ,480,240,Save file,save_file
+2025-04-06 9:04:20,Excel,Key,Alt+F4,500,250,Close app ,save_file
+2025-04-06 9:00:01,Excel,Key,Ctrl+O,200,300,Open dialog,open_file
+2025-04-06 9:00:07,Excel,MouseClick,Left,215,320,File selected,open_file
+2025-04-06 9:01:15,Excel,Key,Ctrl+C,420,215,Copy cell,copy_data
+2025-04-06 9:01:20,Excel,Key,Ctrl+V ,440,220,Paste cell,copy_data
+2025-04-06 9:02:40,Excel,Key,Alt+N,310,310,Open Insert menu,insert_chart
+2025-04-06 9:02:44,Excel,MouseClick,Left,320,325,"Click ""Chart""",insert_chart
+2025-04-06 9:04:00,Excel,Key,Ctrl+S ,480,240,Save file,save_file
+2025-04-06 9:04:20,Excel,Key,Alt+F4,500,250,Close app ,save_file
