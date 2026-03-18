@@ -1,0 +1,43 @@
+2025-03-28 12:40:07,862 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 12:40:08,473 - INFO - Use pytorch device_name: mps
+2025-03-28 12:40:08,473 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-28 12:40:15,052 - INFO - HTTP Request: GET https://chroma-onnx-models.s3.amazonaws.com/all-MiniLM-L6-v2/onnx.tar.gz "HTTP/1.1 200 OK"
+2025-03-28 12:42:55,395 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 12:42:55,512 - INFO - Use pytorch device_name: mps
+2025-03-28 12:42:55,512 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-28 12:43:01,483 - INFO - HTTP Request: GET https://chroma-onnx-models.s3.amazonaws.com/all-MiniLM-L6-v2/onnx.tar.gz "HTTP/1.1 200 OK"
+2025-03-28 12:48:25,363 - INFO - Loaded function metadata into ChromaDB
+2025-03-28 12:48:25,364 - INFO - VectorStore initialized successfully
+2025-03-28 12:58:41,487 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 12:58:41,614 - INFO - Use pytorch device_name: mps
+2025-03-28 12:58:41,614 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-28 12:58:52,705 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 12:58:52,907 - INFO - Use pytorch device_name: mps
+2025-03-28 12:58:52,907 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-28 12:58:57,553 - WARNING - Insert of existing embedding ID: open_chrome
+2025-03-28 12:58:57,553 - WARNING - Insert of existing embedding ID: open_calculator
+2025-03-28 12:58:57,553 - WARNING - Insert of existing embedding ID: get_cpu_usage
+2025-03-28 12:58:57,553 - WARNING - Insert of existing embedding ID: run_shell_command
+2025-03-28 12:58:57,553 - WARNING - Add of existing embedding ID: open_chrome
+2025-03-28 12:58:57,553 - WARNING - Add of existing embedding ID: open_calculator
+2025-03-28 12:58:57,553 - WARNING - Add of existing embedding ID: get_cpu_usage
+2025-03-28 12:58:57,553 - WARNING - Add of existing embedding ID: run_shell_command
+2025-03-28 12:58:57,557 - INFO - Loaded function metadata into ChromaDB
+2025-03-28 12:58:57,557 - INFO - VectorStore initialized successfully
+2025-03-28 14:51:01,920 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-28 14:51:02,044 - INFO - Use pytorch device_name: mps
+2025-03-28 14:51:02,045 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-28 14:51:07,151 - WARNING - Add of existing embedding ID: open_chrome
+2025-03-28 14:51:07,151 - WARNING - Add of existing embedding ID: open_calculator
+2025-03-28 14:51:07,151 - WARNING - Add of existing embedding ID: get_cpu_usage
+2025-03-28 14:51:07,151 - WARNING - Add of existing embedding ID: run_shell_command
+2025-03-28 14:51:07,153 - WARNING - Add of existing embedding ID: open_chrome
+2025-03-28 14:51:07,153 - WARNING - Add of existing embedding ID: open_calculator
+2025-03-28 14:51:07,153 - WARNING - Add of existing embedding ID: get_cpu_usage
+2025-03-28 14:51:07,153 - WARNING - Add of existing embedding ID: run_shell_command
+2025-03-28 14:51:07,153 - WARNING - Insert of existing embedding ID: open_chrome
+2025-03-28 14:51:07,153 - WARNING - Insert of existing embedding ID: open_calculator
+2025-03-28 14:51:07,153 - WARNING - Insert of existing embedding ID: get_cpu_usage
+2025-03-28 14:51:07,153 - WARNING - Insert of existing embedding ID: run_shell_command
+2025-03-28 14:51:07,158 - INFO - Loaded function metadata into ChromaDB
+2025-03-28 14:51:07,158 - INFO - VectorStore initialized successfully
