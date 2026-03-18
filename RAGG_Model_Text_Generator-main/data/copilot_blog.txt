@@ -1,0 +1,33 @@
+1. What is GitHub Copilot?
+GitHub Copilot is an AI pair programmer developed by GitHub and OpenAI. It helps you write code faster by suggesting entire lines or blocks based on natural language comments and the current code context.
+
+2. How Does It Work?
+
+Trained on billions of lines of public code from GitHub.
+
+Uses OpenAI Codex (a descendant of GPT-3) to generate code suggestions.
+
+Integrates directly into editors like Visual Studio Code.
+
+3. Key Features
+
+Code Autocompletion: Suggests entire functions and repetitive code patterns.
+
+Natural Language Input: You can write comments like // sort array and Copilot suggests code accordingly.
+
+Support for Many Languages: Python, JavaScript, TypeScript, Ruby, Go, and more.
+
+4. Limitations
+
+Not Always Right: Suggestions may not always work or follow best practices.
+
+Security & Bias: May suggest insecure or biased code based on its training data.
+
+Not a Replacement: It's a coding assistant, not a full AI developer.
+
+5. FAQs
+
+Is Copilot free?: Initially launched in technical preview; now available via GitHub Copilot subscription.
+
+Can I use it for proprietary code?: It’s designed to assist, but generated code should be reviewed before use in production.
+

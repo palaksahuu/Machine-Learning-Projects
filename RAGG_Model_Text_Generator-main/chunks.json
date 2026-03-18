@@ -1,0 +1,122 @@
+[
+  {
+    "content": "1. What is ChatGPT?\nChatGPT is an AI chatbot developed by OpenAI, capable of generating human-like responses in natural language.\n\n2. Is ChatGPT free to use?\nYes, ChatGPT is free to use. However, OpenAI offers a subscription plan called ChatGPT Plus, which provides additional features and access to GPT-4 for $20/month.\n\n3. Can I use OpenAI’s models via API?\nYes, developers can use OpenAI’s API to integrate language models into their own applications and services.",
+    "metadata": {
+      "source": "openai_faq.txt",
+      "chunk_index": 0,
+      "chunk_length": 467
+    }
+  },
+  {
+    "content": "4. How does OpenAI ensure safety?\nOpenAI employs moderation tools and model fine-tuning to reduce harmful and biased outputs. Additionally, they have implemented data controls that allow users to decide how their conversations are used.\n\n5. What are the usage limits?\nFree-tier users have usage caps, while ChatGPT Plus subscribers receive general priority access and higher usage limits.",
+    "metadata": {
+      "source": "openai_faq.txt",
+      "chunk_index": 1,
+      "chunk_length": 388
+    }
+  },
+  {
+    "content": "1. Overview\nThis policy outlines the expectations, tools, and responsibilities for employees working remotely, either full-time or under hybrid arrangements.\n\n2. Working Hours\n\nEmployees are expected to be available between 10:00 AM – 6:00 PM (IST), Monday through Friday.\n\nFlexibility is allowed with prior manager approval.\n\nAll meetings must be attended unless a valid reason is communicated in advance.\n\n3. Tool Access & Communication",
+    "metadata": {
+      "source": "remote_work_policy.txt",
+      "chunk_index": 2,
+      "chunk_length": 438
+    }
+  },
+  {
+    "content": "3. Tool Access & Communication\n\nPrimary tools: Slack (messaging), Zoom (video), Notion (documentation), and Jira (task tracking).\n\nEmployees must check Slack at least once every hour during work hours.\n\nWeekly standups via Zoom are mandatory on Mondays at 10:30 AM.\n\n4. Performance Tracking\n\nWork progress is tracked via Jira. Tasks must be updated daily.\n\nKPIs will be evaluated bi-weekly in 1-on-1 meetings with team leads.\n\nDeadlines must be respected unless escalated with justification.",
+    "metadata": {
+      "source": "remote_work_policy.txt",
+      "chunk_index": 3,
+      "chunk_length": 491
+    }
+  },
+  {
+    "content": "5. Security Protocols\n\nUse VPN when accessing company resources.\n\nDo not use personal devices unless authorized.\n\nAll files must be stored in the company-approved cloud system (Google Drive/Notion).\n\nTwo-factor authentication (2FA) is mandatory for all tools.\n\n6. Policy Violations\nFailure to adhere to this policy may lead to formal warnings or revocation of remote privileges.",
+    "metadata": {
+      "source": "remote_work_policy.txt",
+      "chunk_index": 4,
+      "chunk_length": 378
+    }
+  },
+  {
+    "content": "1. Pairing Your AirPods\n\nWith Apple Devices:\nOpen the AirPods case near your iPhone. A setup animation should appear on your iPhone screen. Tap \"Connect\" to begin the pairing process. Once set up with one Apple device, your AirPods connect automatically to your other Apple devices signed in to the same Apple ID.",
+    "metadata": {
+      "source": "airpods_manual.txt",
+      "chunk_index": 5,
+      "chunk_length": 313
+    }
+  },
+  {
+    "content": "With Non-Apple Devices:\nOpen the AirPods case, press and hold the setup button on the back until the status light flashes white. Then, go to the Bluetooth settings on your device and select your AirPods from the list.\n\n2. Charging Your AirPods\n\nPlace your AirPods in the charging case and close the lid. The status light indicates the charge status.\n\nUse a Lightning cable to charge the case. The LED light shows charging status.\n\n3. Controls and Gestures",
+    "metadata": {
+      "source": "airpods_manual.txt",
+      "chunk_index": 6,
+      "chunk_length": 455
+    }
+  },
+  {
+    "content": "3. Controls and Gestures\n\nPlay/Pause Audio: Double-tap either AirPod.\n\nSkip to Next Track: Double-tap either AirPod.\n\nActivate Siri: Double-tap either AirPod.\n\nYou can customize these controls in the Bluetooth settings on your iPhone.\n\n4. Using Siri\n\nActivate Siri: Double-tap either AirPod. Then, you can ask Siri to perform tasks like playing music, making calls, or providing directions.\n\n5. Resetting Your AirPods",
+    "metadata": {
+      "source": "airpods_manual.txt",
+      "chunk_index": 7,
+      "chunk_length": 417
+    }
+  },
+  {
+    "content": "5. Resetting Your AirPods\n\nPlace your AirPods in their case and close the lid. Wait 30 seconds, then open the lid.\n\nPress and hold the setup button on the back of the case until the status light flashes amber, then white.\n\nReconnect your AirPods by placing them near your device and following the on-screen instructions.",
+    "metadata": {
+      "source": "airpods_manual.txt",
+      "chunk_index": 8,
+      "chunk_length": 320
+    }
+  },
+  {
+    "content": "1. What is GitHub Copilot?\nGitHub Copilot is an AI pair programmer developed by GitHub and OpenAI. It helps you write code faster by suggesting entire lines or blocks based on natural language comments and the current code context.\n\n2. How Does It Work?\n\nTrained on billions of lines of public code from GitHub.\n\nUses OpenAI Codex (a descendant of GPT-3) to generate code suggestions.\n\nIntegrates directly into editors like Visual Studio Code.\n\n3. Key Features",
+    "metadata": {
+      "source": "copilot_blog.txt",
+      "chunk_index": 9,
+      "chunk_length": 460
+    }
+  },
+  {
+    "content": "3. Key Features\n\nCode Autocompletion: Suggests entire functions and repetitive code patterns.\n\nNatural Language Input: You can write comments like // sort array and Copilot suggests code accordingly.\n\nSupport for Many Languages: Python, JavaScript, TypeScript, Ruby, Go, and more.\n\n4. Limitations\n\nNot Always Right: Suggestions may not always work or follow best practices.\n\nSecurity & Bias: May suggest insecure or biased code based on its training data.",
+    "metadata": {
+      "source": "copilot_blog.txt",
+      "chunk_index": 10,
+      "chunk_length": 455
+    }
+  },
+  {
+    "content": "Not a Replacement: It's a coding assistant, not a full AI developer.\n\n5. FAQs\n\nIs Copilot free?: Initially launched in technical preview; now available via GitHub Copilot subscription.\n\nCan I use it for proprietary code?: It’s designed to assist, but generated code should be reviewed before use in production.",
+    "metadata": {
+      "source": "copilot_blog.txt",
+      "chunk_index": 11,
+      "chunk_length": 310
+    }
+  },
+  {
+    "content": "1. Battery & Range\n\nStandard Range Plus: ~272 miles (EPA est.)\n\nLong Range AWD: ~358 miles (EPA est.)\n\nPerformance Model: ~315 miles (EPA est.)\n\n2. Performance\n\n0–60 mph (Performance): 3.1 seconds\n\nTop Speed (Performance): 162 mph\n\nDrivetrain: Rear-wheel drive (Standard) or Dual motor all-wheel drive (Long Range & Performance)\n\n3. Autopilot & Self-Driving\n\nAutopilot: Standard with lane keeping and adaptive cruise control",
+    "metadata": {
+      "source": "tesla_model3_specs.txt",
+      "chunk_index": 12,
+      "chunk_length": 424
+    }
+  },
+  {
+    "content": "Full Self-Driving (FSD) Capability: Optional upgrade including Navigate on Autopilot, Auto Lane Change, Autopark, Summon, and Traffic Light/Stop Sign Control\n\n4. Safety & Ratings\n\nCrash Rating: 5-Star Overall Rating from NHTSA\n\nSafety Features: Emergency braking, collision warning, blind-spot monitoring, lane departure warning\n\n5. Interior & Tech\n\nTouchscreen: 15” central touchscreen\n\nConnectivity: Wi-Fi, LTE, navigation, video streaming (YouTube, Netflix)",
+    "metadata": {
+      "source": "tesla_model3_specs.txt",
+      "chunk_index": 13,
+      "chunk_length": 460
+    }
+  },
+  {
+    "content": "Seats: All vegan interior with heated seats\n\n6. Charging\n\nCompatible with Tesla Supercharger network\n\nHome charging via NEMA 14-50 or Tesla Wall Connector",
+    "metadata": {
+      "source": "tesla_model3_specs.txt",
+      "chunk_index": 14,
+      "chunk_length": 154
+    }
+  }
+]

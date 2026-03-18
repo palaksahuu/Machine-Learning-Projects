@@ -1,0 +1,36 @@
+1. Pairing Your AirPods
+
+With Apple Devices:
+Open the AirPods case near your iPhone. A setup animation should appear on your iPhone screen. Tap "Connect" to begin the pairing process. Once set up with one Apple device, your AirPods connect automatically to your other Apple devices signed in to the same Apple ID.
+
+With Non-Apple Devices:
+Open the AirPods case, press and hold the setup button on the back until the status light flashes white. Then, go to the Bluetooth settings on your device and select your AirPods from the list.
+
+2. Charging Your AirPods
+
+Place your AirPods in the charging case and close the lid. The status light indicates the charge status.
+
+Use a Lightning cable to charge the case. The LED light shows charging status.
+
+3. Controls and Gestures
+
+Play/Pause Audio: Double-tap either AirPod.
+
+Skip to Next Track: Double-tap either AirPod.
+
+Activate Siri: Double-tap either AirPod.
+
+You can customize these controls in the Bluetooth settings on your iPhone.
+
+4. Using Siri
+
+Activate Siri: Double-tap either AirPod. Then, you can ask Siri to perform tasks like playing music, making calls, or providing directions.
+
+5. Resetting Your AirPods
+
+Place your AirPods in their case and close the lid. Wait 30 seconds, then open the lid.
+
+Press and hold the setup button on the back of the case until the status light flashes amber, then white.
+
+Reconnect your AirPods by placing them near your device and following the on-screen instructions.
+

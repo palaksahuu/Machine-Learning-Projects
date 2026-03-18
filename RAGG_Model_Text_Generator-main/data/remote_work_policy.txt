@@ -1,0 +1,40 @@
+1. Overview
+This policy outlines the expectations, tools, and responsibilities for employees working remotely, either full-time or under hybrid arrangements.
+
+2. Working Hours
+
+Employees are expected to be available between 10:00 AM – 6:00 PM (IST), Monday through Friday.
+
+Flexibility is allowed with prior manager approval.
+
+All meetings must be attended unless a valid reason is communicated in advance.
+
+3. Tool Access & Communication
+
+Primary tools: Slack (messaging), Zoom (video), Notion (documentation), and Jira (task tracking).
+
+Employees must check Slack at least once every hour during work hours.
+
+Weekly standups via Zoom are mandatory on Mondays at 10:30 AM.
+
+4. Performance Tracking
+
+Work progress is tracked via Jira. Tasks must be updated daily.
+
+KPIs will be evaluated bi-weekly in 1-on-1 meetings with team leads.
+
+Deadlines must be respected unless escalated with justification.
+
+5. Security Protocols
+
+Use VPN when accessing company resources.
+
+Do not use personal devices unless authorized.
+
+All files must be stored in the company-approved cloud system (Google Drive/Notion).
+
+Two-factor authentication (2FA) is mandatory for all tools.
+
+6. Policy Violations
+Failure to adhere to this policy may lead to formal warnings or revocation of remote privileges.
+

@@ -1,0 +1,14 @@
+1. What is ChatGPT?
+ChatGPT is an AI chatbot developed by OpenAI, capable of generating human-like responses in natural language.
+
+2. Is ChatGPT free to use?
+Yes, ChatGPT is free to use. However, OpenAI offers a subscription plan called ChatGPT Plus, which provides additional features and access to GPT-4 for $20/month.
+
+3. Can I use OpenAI’s models via API?
+Yes, developers can use OpenAI’s API to integrate language models into their own applications and services.
+
+4. How does OpenAI ensure safety?
+OpenAI employs moderation tools and model fine-tuning to reduce harmful and biased outputs. Additionally, they have implemented data controls that allow users to decide how their conversations are used.
+
+5. What are the usage limits?
+Free-tier users have usage caps, while ChatGPT Plus subscribers receive general priority access and higher usage limits.
