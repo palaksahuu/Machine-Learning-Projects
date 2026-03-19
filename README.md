@@ -107,6 +107,3 @@ Palak Sahu
 B.Tech Computer Science (AI & ML)  
 Interested in Machine Learning, AI, Data Analytics, and Development  
 
----
-
-If you like this repository, feel free to explore and use the projects.
